@@ -1,0 +1,39 @@
+Each group has to take 5 classes as given below.
+
+Group-1 ba, ni, hai, hI, ka 
+Group-2 bhA, hai, hI, ka, ne
+Group-3 hai, hI, ka, kaa, ne 
+Group-4 hI, ne, ni, nii, pa  
+Group-5 ka, kaa, ne, nii, pa 
+Group-6 ne, ni, nii, pa, paa
+Group-7 ni, nii, pa, paa, re 
+Group-8 nii, pa, re, rI, sa
+Group-9 pa, paa, re, sa, tA
+Group-10 tA, kaa, ka, sa, rI
+Group-11 ba, pa, bhA, paa, hai
+Group-12 ba, bhA, re, pa, hI
+Group-13 bhA, hai, hI, re, rI
+Group-14 hI, rI, ka, sa, kaa
+Group-15 nI, tI, kaa, tA, pa
+Group-16 hI, rI, ka, sa, tI
+Group-17 tI, tA, hI, paa, pa
+Group-18 hai, ka, rI, sa, pa
+Group-19 re, hai, ka, tI, nii
+Group-20 paa, re, ba, ne, ni
+Group-21 pa, ba, hai, kaa, sa
+Group-22 sa, ka, kaa, tA, ba
+Group-23 paa, ka, sa, ne, nii
+Group-24 bhA, ba, tA, kaa, tI
+Group-25 tI, ka, nii, tA, bhA
+Group-26 ne, ni, nii, pa, ba
+Group-27 re, ne, hai, sa, tA
+Group-28 sa, hI, tI, pa, bhA
+Group-29 tI, nii, kaa, re, sa
+Group-30 bhA, hai, ka, tA, ne
+Group-31 pa, ba, hI, tA, tii
+Group-32 sa, tA, pa, bhA, ni
+Group-33 tA, kaa, ne, nii, ba
+Group-34 bhA, ka, ni, tI, pa
+Group-35 tI, tA, paa, kaa, nii
+
+
